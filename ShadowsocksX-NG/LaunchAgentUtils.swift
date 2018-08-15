@@ -8,8 +8,8 @@
 
 import Foundation
 
-let SS_LOCAL_VERSION = "3.1.3"
-let KCPTUN_CLIENT_VERSION = "v20170718"
+let SS_LOCAL_VERSION = "3.2.0"
+let KCPTUN_CLIENT_VERSION = "v20180810"
 let PRIVOXY_VERSION = "3.0.26.static"
 let SIMPLE_OBFS_VERSION = "0.0.5"
 let APP_SUPPORT_DIR = "/Library/Application Support/ShadowsocksX-NG/"

@@ -1,6 +1,6 @@
 # ShadowsocksX-NG
 
-Current version is 1.8.0
+Current version is 1.8.0-1
 
 [![Build Status](https://travis-ci.org/shadowsocks/ShadowsocksX-NG.svg?branch=develop)](https://travis-ci.org/shadowsocks/ShadowsocksX-NG)
 
@@ -33,7 +33,7 @@ From [here](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
 
 ## Features
 
-- `ss-local` from shadowsocks-libev 3.1.3
+- `ss-local` from shadowsocks-libev 3.2.0
 - Support SIP003 plugins. Embed `kcptun` and `simple-obfs`.
 - Could update PAC by download GFW List from GitHub.
 - Shows QRCode for current server profile.
@@ -42,7 +42,7 @@ From [here](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
 - User rules for PAC.
 - Support for [AEAD Ciphers](https://shadowsocks.org/en/spec/AEAD-Ciphers.html)
 - HTTP Proxy by [privoxy](http://www.privoxy.org/)
-- Over [kcptun](https://github.com/xtaci/kcptun). Version 20170322
+- Over [kcptun](https://github.com/xtaci/kcptun). Version 20180810
 - Export/Import configure file.
 - An advanced preferences panel for configuring:
 	- Local SOCKS5 listen address.

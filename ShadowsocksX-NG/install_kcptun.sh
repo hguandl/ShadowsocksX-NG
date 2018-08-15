@@ -8,7 +8,7 @@
 
 # https://github.com/shadowsocks/kcptun/releases
 
-VERSION="v20170718"
+VERSION="v20180810"
 
 cd `dirname "${BASH_SOURCE[0]}"`
 
