@@ -11,7 +11,7 @@
 		1C82DBA81FA96C7500B32551 /* obfs-local in Resources */ = {isa = PBXBuildFile; fileRef = 1C82DBA51FA96C7400B32551 /* obfs-local */; };
 		1C82DBAA1FA96FB600B32551 /* install_simple_obfs.sh in Resources */ = {isa = PBXBuildFile; fileRef = 1C82DBA91FA96F0300B32551 /* install_simple_obfs.sh */; };
 		258E511BA910B0521B24DAB8 /* Pods_ShadowsocksX_NG.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 283ED1A8E9B711AC65670031 /* Pods_ShadowsocksX_NG.framework */; };
-		839B0BC62123EB57003F9F33 /* libmbedcrypto.2.12.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 839B0BC52123EB57003F9F33 /* libmbedcrypto.2.12.0.dylib */; };
+		83F4EC9C2124577300B5573C /* libmbedcrypto.2.12.0.dylib in Resources */ = {isa = PBXBuildFile; fileRef = 839B0BC52123EB57003F9F33 /* libmbedcrypto.2.12.0.dylib */; };
 		9B07EFA71D048BBB0052D9DF /* ss-local in Resources */ = {isa = PBXBuildFile; fileRef = 9B07EFA61D048BBB0052D9DF /* ss-local */; };
 		9B07EFAC1D048E880052D9DF /* menu_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B07EFA81D048E880052D9DF /* menu_icon@2x.png */; };
 		9B07EFAD1D048E880052D9DF /* menu_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B07EFA91D048E880052D9DF /* menu_icon.png */; };
@@ -258,7 +258,6 @@
 				9B6BF9541E27B2570061B9A7 /* ServiceManagement.framework in Frameworks */,
 				9B3FFF3E1D08D9910019A709 /* SystemConfiguration.framework in Frameworks */,
 				258E511BA910B0521B24DAB8 /* Pods_ShadowsocksX_NG.framework in Frameworks */,
-				839B0BC62123EB57003F9F33 /* libmbedcrypto.2.12.0.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -628,6 +627,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83F4EC9C2124577300B5573C /* libmbedcrypto.2.12.0.dylib in Resources */,
 				9BCB1D6C20A15B0E005BABE7 /* libsodium.23.dylib in Resources */,
 				9BCB1D6D20A15B0E005BABE7 /* libcares.2.dylib in Resources */,
 				9BBE7B751F508A0E00E8FFE5 /* fix_dir_owner.sh in Resources */,
